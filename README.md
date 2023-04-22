@@ -1,2 +1,2 @@
 # JSP-Database-App
-Jsp+HTML
+JAVA(Servlet)+HTML+XML
